@@ -1,0 +1,102 @@
+# ===============================
+# UNITY GENERATED
+# ===============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# Unity Cache
+[Cc]ache/
+[Cc]acheServer/
+.vs/
+
+# ===============================
+# UNITY ASSET STORE & IDE
+# ===============================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.vsidx
+
+# ===============================
+# OS FILES
+# ===============================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===============================
+# BUILDS & EXPORTS
+# ===============================
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+
+# ===============================
+# UNITY META CACHE
+# ===============================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ===============================
+# CRASH & DEBUG
+# ===============================
+sysinfo.txt
+*.log
+
+# ===============================
+# ADDRESSABLES
+# ===============================
+Assets/AddressableAssetsData/*/*.bin*
+
+# ===============================
+# DOTNET / IL2CPP
+# ===============================
+Il2CppBuildCache/
+obj/
+bin/
+
+# ===============================
+# GIT LFS TEMP
+# ===============================
+*.tmp
+*.temp
+
+# ===============================
+# LARGE FILE SAFETY (GitHub 100MB limit)
+# ===============================
+*.mp4
+*.mov
+*.fbx
+*.psd
+*.tga
+*.wav
+*.zip
+*.rar
+*.7z
