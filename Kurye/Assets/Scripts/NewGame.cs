@@ -8,5 +8,6 @@ public class NewGame : MonoBehaviour
     public void SceneSelector()
     {
         SceneManager.LoadScene("Selector");
+
     }
 }
